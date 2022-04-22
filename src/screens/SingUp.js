@@ -8,9 +8,9 @@ import {SafeAreaView,
         TouchableOpacity,
        } from 'react-native';
 
-import {Hello} from './src/components/hello';
 
-const App = () => {
+
+ function SingUp  ()  {
 
   return (
     
@@ -73,4 +73,3 @@ const styles=StyleSheet.create({
   
 })
 
-export default App;

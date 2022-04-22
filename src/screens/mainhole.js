@@ -8,9 +8,8 @@ import {SafeAreaView,
         TouchableOpacity,
        } from 'react-native';
 
-import {Hello} from './src/components/hello';
 
-const App = () => {
+ function mainhole() {
 
   return (
     //Page Full Area
@@ -81,5 +80,3 @@ const styles=StyleSheet.create({
   }
   
 })
-
-export default App;
